@@ -1,0 +1,67 @@
+body{
+    background-color: #332928;
+
+}
+.top{
+    display: block;
+    margin-top: auto;
+}
+.middle{
+display: none;
+
+}
+.bottom{
+display: none;
+
+}
+.logo{
+
+  background-color: transparent;
+ 
+  margin-top: 30vh;
+  margin-left: 36vw;
+  height: 40vh;
+  width: 14vw;
+  
+
+}
+
+.logoClass{
+    background-color: transparent;
+    height: 100%;
+    width: 100%;
+    
+}
+
+p1{
+	font-family: novecento-slab, serif;
+	font-weight: lighter;
+	font-size: 1vw;
+	color: #CFB53B;
+}
+
+p2{
+	font-family: anonymous-pro, monospace;
+	font-size: .7vw;
+	color: #FEF1E8;
+}
+
+p3{
+	font-family: novecento-slab, serif;
+    font-weight: normal;
+    font-size: 1.3vw;
+	color: #CFB53B;
+}
+p4{
+	font-family: novecento-slab, serif;
+	font-weight: lighter;
+	font-size: 4vh;
+	color: #CFB53B;
+}
+h2{
+    font-family: novecento-slab, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    color: #D4AF37;
+}
